@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" role="img" aria-label="Course image placeholder">
+  <rect width="600" height="350" fill="#0f172a"/>
+  <path d="M214 145h172a18 18 0 0 1 18 18v99H196v-99a18 18 0 0 1 18-18Z" fill="#164e63"/>
+  <path d="m196 181 104 72 104-72v81H196z" fill="#0891b2"/>
+  <path d="M256 113h88v20h-88z" fill="#22d3ee"/>
+  <circle cx="300" cy="113" r="15" fill="#67e8f9"/>
+</svg>
