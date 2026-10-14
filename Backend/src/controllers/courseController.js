@@ -1,4 +1,4 @@
-const Course = require("../models/Course");
+const Course = require("../models/course");
 const Lesson = require("../models/Lesson");
 
 // ================= CREATE COURSE =================

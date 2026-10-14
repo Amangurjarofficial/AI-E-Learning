@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Lesson = require("../models/Lesson");
-const Course = require("../models/Course");
+const Course = require("../models/course");
 
 // Helper: validate MongoDB IDs
 const isValidId = (id) => mongoose.isValidObjectId(id);

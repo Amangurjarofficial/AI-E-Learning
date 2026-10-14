@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Enrollment = require("../models/Enrollment");
-const Course = require("../models/Course");
+const Course = require("../models/course");
 const Lesson = require("../models/Lesson");
 
 const askAITutor = async (req, res) => {
